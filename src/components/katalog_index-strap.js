@@ -195,7 +195,7 @@ class KatalogIndexStrap extends Component {
                 <Row className="show-grid">
                     <Col>
                         <code>
-                            <Navbar>
+                            <Navbar fixedTop>
                                 <Navbar.Header>
                                     <Navbar.Brand>
                                         <a href="#">HOME</a>
@@ -289,7 +289,7 @@ class KatalogIndexStrap extends Component {
                             </Row>
                             <Row>
                                 <div>
-                                    <Well bsSize="large">Napstosto úžasné koupání,</Well>
+                                    <Well bsSize="large">Naprtosto úžasné koupání,</Well>
                                     <Well bsSize="small">když není co doma, v sobotu, na praní!</Well>
                                 </div>
                             </Row>

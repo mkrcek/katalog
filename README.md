@@ -1,9 +1,12 @@
 ## katalog
 React DB Katalog
 
+# verze 2b_
+- fixedTop: pevné menu
+
 # verze 2: demo
 - zobrazení horizontálního menu
-- zonrazení vertikálního menu
+- zobrazení vertikálního menu
 - Breadcrumb (drobečková navigace)
 - zobrazení tabulky (s omezenou velikostí, aby šlo skrolovat)
 - řazení tabulky
